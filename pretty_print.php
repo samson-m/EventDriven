@@ -6,5 +6,9 @@ header('Content-type: text/javascript');
 //Print the array in a simple JSON format
 echo json_encode($courses, JSON_PRETTY_PRINT);
 // Test change
+<<<<<<< HEAD
 echo "Try it out!";
+=======
+echo "Clear mem";
+>>>>>>> e371e959a127bb77bd65a59d64262394b876c300
 ?>
