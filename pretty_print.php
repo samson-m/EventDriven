@@ -6,4 +6,5 @@ header('Content-type: text/javascript');
 //Print the array in a simple JSON format
 echo json_encode($courses, JSON_PRETTY_PRINT);
 // Test change
+echo "Try it out!";
 ?>
